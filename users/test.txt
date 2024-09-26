@@ -1,6 +1,0 @@
-UIN: 01201693
-Name: Venugopal Nagandla
-Course: Web Programming
-
-
-Github URl: https://github.com/VG1234/ODU-CS418-518-G1
